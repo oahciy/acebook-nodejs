@@ -1,0 +1,44 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+<style>
+  #cat-photo-form {
+  background-color: green;
+}
+  .red-text {
+    color: red;
+  }
+
+ .pink-text {
+    color: red;
+  }
+
+  body {
+    background-color: pink;
+    color: green;
+  }
+  h1 {
+    font-family: roboto, monospace;
+  }
+
+  p1 {
+    font-size: 16px;
+    font-family: monospace;
+    color: black;
+  }
+
+ p2 {
+    font-size: 30px;
+    font-family: Lobster;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .silver-background {
+    background-color: silver;
+  }
+</style>
