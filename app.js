@@ -6,6 +6,7 @@ const logger = require("morgan");
 const session = require("express-session");
 const methodOverride = require("method-override");
 const hbs = require("hbs");
+const bootstrap = require("bootstrap");
 
 const homeRouter = require("./routes/home");
 const postsRouter = require("./routes/posts");

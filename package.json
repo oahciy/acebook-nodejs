@@ -16,6 +16,7 @@
     "node": ">=18.1.0"
   },
   "dependencies": {
+    "bootstrap": "^5.2.2",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
@@ -35,7 +36,8 @@
     "eslint-plugin-cypress": "^2.8.1",
     "eslint-plugin-jest": "^22.21.0",
     "eslint-plugin-node": "^10.0.0",
-    "jest": "^27.5.1"
+    "jest": "^27.5.1",
+    "parcel": "^2.7.0"
   },
   "nodemonConfig": {
     "ext": "js,hbs"
